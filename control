@@ -1,4 +1,4 @@
-Package: com.ryannair05.little11
+Package: com.cfarzaneh.little11
 Name: Little11
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Version: 1.4.1

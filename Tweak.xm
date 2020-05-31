@@ -666,7 +666,7 @@ void loadPrefs() {
 
                 if (statusBarStyle == 1) %init(StatusBariPad)      
                 else if (statusBarStyle == 2) %init(StatusBarX);
-                else wantsHideSBCC = NO;
+                else wantsHideSBCC = YES;
 
                 if (!wantsHomeBarLS) {
                     %init(hideHomeBarLS);
