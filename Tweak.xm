@@ -697,8 +697,6 @@ void loadPrefs() {
 
                     if ([bundleIdentifier isEqualToString:@"com.google.ios.youtube"])
                         wantsCompatabilityMode = YES;
-                    else if ([bundleIdentifier isEqualToString:@"com.facebook.Facebook"]) 
-                        wantsbottomInset = YES;
                     else if ([bundleIdentifier isEqualToString:@"com.zhiliaoapp.musically"])
                         wantsDeviceSpoofing = YES;
 
